@@ -4,6 +4,6 @@ array.each do |x|
   x == x**2
   arrays.push x*2
 end
-
+array()
 
 end
